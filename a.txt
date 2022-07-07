@@ -1,2 +1,6 @@
 it is a a.txt file!!
+<<<<<<< HEAD
 insert into commamd line
+=======
+insert into http
+>>>>>>> 5fc117ca29a9c11f07c258dd6646aa4402215f0a
